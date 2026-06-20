@@ -1,6 +1,6 @@
 # My Profile
 
-Hello! I'm Enzo Kyon, one of the Robloxians who escaped ROBLOXia years ago for fun.<br/>
+Hello! I'm Enzo Kyon, just one of the silly Robloxians who escaped ROBLOXia years ago for fun.<br/>
 <sub>Like... where's the fun of that? Just being stuck to single place is boring, exploring the net is better. :P</sub>
 
 As you can see, I enjoy playing games, drawing, and coding. I don't have any public repos right now *(I mean I had one, but I set it to private cuz I didn't feel like leaving it public at all for now)*, but I'm up to learning about programming/coding in GitHub.
